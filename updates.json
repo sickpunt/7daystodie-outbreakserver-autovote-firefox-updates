@@ -3,6 +3,15 @@
     "7dtd-auto-voter@extension.local": {
       "updates": [
         {
+          "version": "1.0.1",
+          "update_link": "https://sickpunt.github.io/7daystodie-outbreakserver-autovote-firefox-updates/7dtd-auto-voter-1.0.1.xpi",
+          "browser_specific_settings": {
+            "gecko": {
+              "strict_min_version": "91.0"
+            }
+          }
+        },
+        {
           "version": "1.0.0",
           "update_link": "https://sickpunt.github.io/7daystodie-outbreakserver-autovote-firefox-updates/7dtd-auto-voter-1.0.0.xpi",
           "browser_specific_settings": {
